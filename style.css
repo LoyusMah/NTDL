@@ -1,0 +1,13 @@
+.wrapper {
+    color: red;
+    min-height: 100vh;
+    background-image: url(./not-to-do-list-banner.png);
+  }
+  
+  .table {
+    --bs-table-bg: transparent;
+  }
+ /* .nav{
+background: aqua;
+
+ } */
